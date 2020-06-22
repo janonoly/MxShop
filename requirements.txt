@@ -20,4 +20,4 @@ drf-extensions
 django-redis
 pycryptodome
 raven
-xs1
+xslll
